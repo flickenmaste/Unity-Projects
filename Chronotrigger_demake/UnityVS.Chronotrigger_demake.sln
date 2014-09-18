@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Chronotrigger_demake.CSharp.Editor", "UnityVS.Chronotrigger_demake.CSharp.Editor.csproj", "{6F5D1E87-6DDF-FF73-CD5F-401D226967F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.Chronotrigger_demake.CSharp", "UnityVS.Chronotrigger_demake.CSharp.csproj", "{EC9F7D49-74B4-245A-4FA6-E68EC1321843}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F5D1E87-6DDF-FF73-CD5F-401D226967F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F5D1E87-6DDF-FF73-CD5F-401D226967F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F5D1E87-6DDF-FF73-CD5F-401D226967F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F5D1E87-6DDF-FF73-CD5F-401D226967F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC9F7D49-74B4-245A-4FA6-E68EC1321843}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC9F7D49-74B4-245A-4FA6-E68EC1321843}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC9F7D49-74B4-245A-4FA6-E68EC1321843}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC9F7D49-74B4-245A-4FA6-E68EC1321843}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

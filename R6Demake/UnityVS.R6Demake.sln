@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.R6Demake.CSharp.Editor", "UnityVS.R6Demake.CSharp.Editor.csproj", "{A775D31E-7BC5-5766-41B9-F232C30234A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnityVS.R6Demake.CSharp", "UnityVS.R6Demake.CSharp.csproj", "{3CC3C70E-D797-CE2F-1619-FD48BE792D26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A775D31E-7BC5-5766-41B9-F232C30234A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A775D31E-7BC5-5766-41B9-F232C30234A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A775D31E-7BC5-5766-41B9-F232C30234A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A775D31E-7BC5-5766-41B9-F232C30234A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CC3C70E-D797-CE2F-1619-FD48BE792D26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC3C70E-D797-CE2F-1619-FD48BE792D26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC3C70E-D797-CE2F-1619-FD48BE792D26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC3C70E-D797-CE2F-1619-FD48BE792D26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
